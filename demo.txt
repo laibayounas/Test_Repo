@@ -1,4 +1,0 @@
-Hi.
-this is my file.
-this is new file.
-bye
